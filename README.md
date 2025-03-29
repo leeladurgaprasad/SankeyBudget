@@ -27,7 +27,7 @@
 - **Financial rounding** eliminates floating-point errors
 
 ## Demo 🎥
-Try it live: 
+Try it live: https://leeladurgaprasad.github.io/SankeyBudget/index.html
 
 ## Installation ⚙️
 ```bash
